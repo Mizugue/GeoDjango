@@ -122,7 +122,7 @@ MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 
-YELP_API_KEY = 'L_SeYS2TtoUwmKb9bkMHeTbv7782yRfxjec3MPjKRUIOI44e4fVdic-DgEBPLEZfjQC5dyUrlva-fiifYJCRlxPLmKwDcoSkr0idTqHCfsjSbAyopkqOCCZ_se8WZnYx'
+YELP_API_KEY = #
 GEOIP_PATH = os.path.join(BASE_DIR, 'geoip')
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
