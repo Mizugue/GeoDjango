@@ -1,0 +1,13 @@
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    text-align: center;
+}
+
+
+   .centered > div {
+    width: 60%;
+
+}
